@@ -8,9 +8,8 @@ user : administrator
 pass : master
 
 Akses portal web spasial :
-http://localhost/ssd-anggi-yulianto/api/get_maps. -> untuk peta faskes
-http://localhost/ssd-anggi-yulianto/api/get_maps2 -> untuk peta kelurahan
-mohon maaf saya belum bisa menggabungkan kedua peta tersebut dengan basemap yang sama.
+http://localhost/ssd-anggi-yulianto/api/get_maps. 
+mohon maaf saya belum bisa menggabungkan kedua peta bersamaan (overlay)  dengan basemap yang sama.
 
 untuk mengecek Api peta kelurahan aktif atau tidak :
 http://localhost/ssd-anggi-yulianto/api/get_kelurahan
