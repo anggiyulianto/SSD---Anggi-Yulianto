@@ -23,3 +23,9 @@ untuk mendapatkan endpoint API seluruh Faskes:
 http://localhost/ssd-anggi-yulianto/api/getfaskes
 Authorization : (hasil token diatas)
 
+untuk mendapatkan endpoint API Faskes tertentu: http://localhost/ssd-anggi-yulianto/api/getfaskes 
+Authorization : (hasil token diatas)
+body :
+{
+   "nama_faskes":"nama" 
+}
